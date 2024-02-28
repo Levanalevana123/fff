@@ -1,0 +1,21 @@
+#r {
+    font-weight: 50;
+    font-size: 50px;
+    color: blue;
+}
+
+#c {
+    font-weight: 20;
+    font-size: 20px;
+    color: brown;
+}
+
+#s {
+    font-weight: 20;
+    font-size: 20px;
+    color: chocolate;
+}
+
+body {
+    background-color: black;
+}
